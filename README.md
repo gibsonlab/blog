@@ -1,4 +1,4 @@
-<gibsonlab.io/blog>
+<https://gibsonlab.io/blog>
 
 ## Welcome to GitHub Pages
 
